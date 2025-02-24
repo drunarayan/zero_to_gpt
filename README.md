@@ -32,7 +32,9 @@ This is an optional lesson with a basic refresher on linear algebra and calculus
 Gradient descent is how neural networks train their parameters to match the data.  It's the "learning" part of deep learning.
 
 - [Lesson](explanations/linreg.ipynb) 
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/linreg.ipynb?reset).
 - [Video](https://youtu.be/-cs5D91eBLE) (optional)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/notebooks/linreg/linreg.ipynb?reset).
 - [Implementation](notebooks/linreg/linreg.ipynb)
 
 **3. Dense networks**
@@ -40,8 +42,10 @@ Gradient descent is how neural networks train their parameters to match the data
 Dense networks are the basic form of a neural network, where every input is connected to an output.  These can also be called fully connected networks.
 
 - [Lesson](explanations/dense.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/dense.ipynb?reset).
 - [Video](https://youtu.be/MQzG1hfhow4) (optional)
 - [Implementation](notebooks/dense/dense.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/notebooks/dense/dense.ipynb?reset).
 
 **4. Classification with neural networks**
 
@@ -55,14 +59,17 @@ Classification is how we get neural networks to categorize data for us.  Classif
 Recurrent neural networks (RNNs) are optimized to process sequences of data.  They're used for tasks like translation and text classification.
 
 - [Lesson](explanations/rnn.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/rnn.ipynb?reset).
 - [Video](https://youtu.be/4wuIOcD1LLI) (optional)
 - [Implementation](notebooks/rnn/rnn.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/notebooks/rnn/rnn.ipynb?reset).
 
 **6. Backpropagation in depth**
 
 So far, we've taken a loose look at backpropagation to let us focus on understanding neural network architecture.  We'll build a miniature version of PyTorch, and use it to understand backpropagation better.
 
 - [Lesson](explanations/comp_graph.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/comp_graph.ipynb?reset).
 - [Video](https://youtu.be/RyKrG8rTGUY) (optional)
 
 **7. Optimizers**
@@ -70,6 +77,7 @@ So far, we've taken a loose look at backpropagation to let us focus on understan
 We've used SGD to update model parameters so far.  We'll learn about other optimizers that have better convergence properties.
 
 - [Lesson](explanations/optimizers.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/optimizers.ipynb?reset).
 - Video coming soon
 
 **8. Regularization**
@@ -77,6 +85,7 @@ We've used SGD to update model parameters so far.  We'll learn about other optim
 Regularization prevents overfitting to the training set.  This means that the network can generalize well to new data.
 
 - [Lesson](explanations/regularization.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/regularization.ipynb?reset).
 - Video coming soon
 
 **9. PyTorch**
@@ -84,6 +93,7 @@ Regularization prevents overfitting to the training set.  This means that the ne
 PyTorch is a framework for deep learning that automatically differentiates functions.  It's widely used to create cutting-edge models.
 
 - [Lesson](explanations/pytorch.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/pytorch.ipynb?reset).
 - Video coming soon
 
 **10. Working with Text**
@@ -91,6 +101,7 @@ PyTorch is a framework for deep learning that automatically differentiates funct
 GPT models are trained on text.  We'll learn how to process text data for use in deep learning.
 
 - [Lesson](explanations/text.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/text.ipynb?reset).
 - Video coming soon
 
 **11. Transformers**
@@ -99,6 +110,7 @@ Transformers fix the problem of vanishing/exploding gradients in RNNs by using a
 
 - Lesson coming soon
 - [Implementation](notebooks/transformer/transformer.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/transformer.ipynb?reset).
 
 **12. Cleaning Text Data**
 
@@ -131,6 +143,7 @@ GPT models take a long time to train.  We can reduce that time by using more GPU
 
 - Lesson coming soon
 - [Implementation](notebooks/eff_transformer/eff_transformer.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/eff_transformer.ipynb?reset).
 
 **17. Training GPT-X**
 
@@ -154,12 +167,14 @@ Convolutional neural networks are used for working with images and time series.
 Gated recurrent networks help RNNs process long sequences by helping networks forget irrelevant information.  LSTM and GRU are two popular types of gated networks.
 
 - [Implementation](notebooks/gru/gru.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/notebooks/gru/gru.ipynb?reset).
 
 **Encoders and decoders**
 
 Encoder/decoders are used for NLP tasks when the output isn't the same length as the input.  For example, if you want to use questions/answers as training data, the answers may be a different length than the question.
 
 - [Implementation](notebooks/rnnencoder/encoder.ipynb)
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/notebooks/rnnencoder/encoder?reset).
 
 ## Installation
 
