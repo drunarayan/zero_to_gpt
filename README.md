@@ -24,7 +24,7 @@ An overview of the course and topics we'll cover.
 This is an optional lesson with a basic refresher on linear algebra and calculus for deep learning.  We'll use NumPy to apply the concepts.  If you're already familiar with these topics, you can skip this lesson.
 
 - [Lesson](explanations/linalg.ipynb)
-- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](explanations/linalg.ipynb?reset).
+- [Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fzero_to_gpt&branch=gh-pages&urlpath=lab%2Ftree%2Fzero_to_gpt/explanations/intro.ipynb?reset).
 - [Video](https://youtu.be/5zbTnOd_53g) (optional)
 
 **2. Gradient descent**
